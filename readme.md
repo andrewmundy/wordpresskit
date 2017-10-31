@@ -1,46 +1,68 @@
-# Welcome to Stir's Wordpress Kit
-*Glad to have you with us!* 
+# Welcome to Stir's Wordpress Kit 🌴🍹🌴
+*Glad to have you with us!*
 
-Below we will go over the main parts of a social medium post
-- Charming & Relevant Verbiage
-- High Quality Imagery
-- Targeted Hashtags
-- Utilizing Specific Platforms
+### Below we will go over the three main parts of a Stir post
+### 1. Charming & Relevant Verbiage
+### 2. High Quality Imagery
+### 3. Targeted Hashtags
 
-# Charming & Relevant Verbiage!
-First of all let’s go over our Voice & Culture slides. Here we talk about the high level concepts of who we are and how we interact.
+&
+
+### Its Utilization Across our Platforms
+### 1. Wordpress
+### 2. Instagram
+### 3. Facebook
+### 4. Twitter
+
+# 1. Charming & Relevant Verbiage!
+First of all let’s go over our Voice & Culture slides. Here we talk about the high level concepts of who we are and how we interact. Go through this presentation and really get a feel for what kind of voice we want to share. 
+
 <a href="https://docs.google.com/presentation/d/1qvyxWn8ITxGT2JAS_HGkw9C47vef-GWki9xQwZFYNsg/edit?usp=sharing"><img src="./images/V&C.png"/></a>
-*if you are unable to open this document then please contact me*
+*Please contact <a href="mailto:andrew@stirapp.co">me</a> if you have trouble accessing*
 
-# High Quality Imagery
+# 2. High Quality Imagery
+*the most important quality of the post*
 
-## What you will need to get started
+## ⚠️ If you are already using Photoshop or Illustrator you can skip this step ⚠️
+
+### a. Lets get you started with Gravit.io
 - Download this directory (click the `green download button` > click `download ZIP` > uncompress the ZIP)
 - Sign up for an account on https://designer.gravit.io (free online vector and image editor)
 
-## Lets get your editor setup!
+### b. Lets get your editor setup!
 - go to https://designer.gravit.io/
 - click `Open from Computer` and select the `wordpresskit.gvdesign` file you downloaded <img src="./images/open.png"/>
 - you should see something like this <img src="./images/something.png">
 - now watch <a href="https://www.youtube.com/watch?v=XsifTSkhsss&t=16s">this</a> tutorial video for an indepth look at the tools and techniques available to you[![Check out this tutorial video](./images/thumb.png)](https://www.youtube.com/watch?v=XsifTSkhsss&t=16s)
 
-Great! You should have been able to create an image that can be utilized on the many social medium platforms. Let’s go over specifics regarding those posts.
+### Cool! 😎 
+You should have been able to create an image that can be utilized on the many social medium platforms. Let’s go over specifics regarding those posts.
 
-# Targeted Tagging
-We touched on tagging in the V&C slides but lets recap here. We will use the following breakdown for a minimum of 16 tags.
-
-- ### 4 Popular / Abstract  (1/4)
-`Followback`, `Fun`, `Bar`, `Cocktails`
-
-- ### 4 Niche / Location / Individuals (1/4)
-`WhiteChapel`, `DutchNemesis`, `AnthonyParks`
+# 3. Targeted Tagging
+We touched on tagging in the V&C slides but lets recap here. We will use the following breakdown for a minimum of 16 tags. Lets stack those tags in this order so the most relevant and tageted ones are at the top and sink the popular/abstract ones to the bottom. This makes us look like we arent just spamming posts.
 
 - ### 8 Targeted / Specific (1/2)
-`Negroni`, `Gin`, `SanFrancisco`, `SundayFunday`
+```
+#Negroni #Gin #SanFrancisco #SundayFunday
+```
+
+- ### 4 Niche / Location / Individuals (1/4)
+```
+#WhiteChapel #DutchNemesis #AnthonyParks
+```
+
+- ### 4 Popular / Abstract  (1/4)
+ ```
+ top 30 instagram tags
+
+ #love #instagood #me #cute #tbt #photooftheday #instamood #iphonesia #tweegram #picoftheday #igers #girl #beautiful #instadaily #summer #instagramhub #iphoneonly #follow #igdaily #bestoftheday #happy #picstitch #tagblender #jj #sky #nofilter #fashion #followme #fun #sun
+ ```
+
+We have a minimum of 16 but you really can go over the top. There is no limit on instagram. 
 
 
 # Utilizing Specific Platforms
-## Wordpress
+## 1. Wordpress
 This is where you will be utilizing your imagery and writing your award winning content! This wordpress post will also be the main content that we will aggregate across the following mediums.
 
 By now we have
@@ -52,7 +74,7 @@ By now we have
 
 With all these elements in our wordpress post lets aggregate them across to the other platforms!
 
-## Instagram
+## 2. Instagram
 Instagram has become the defacto landing zone for young adults aged 18-28. Thats our target demographic. Instagram utilized high quality imagery, tags, & a large user base that includes many of the bars and venues we touch on in our posts. Our goal is to @ these venues and get them to like and share our content with their huge follower base.
 
 Follow this gif for a breakdown of how to post your image to instagram from chrome. The steps are below.
@@ -82,7 +104,7 @@ Cool, we got a post up. Lets add a comment to tie in those hashtags we created f
 #jazz, #cocktails, #cocktailbar, #jazzbar, #classiccocktails, #pianomood, #saxaphone, #jazzclub, #fall, #instagood, #instamood, #happy
 ```
 
-## Facebook
+## 3. Facebook
 facebook doesn't utilize tags in the same relevant way as instagram but the `share` button is our best friend here. If we can get those venues to `share` this post to their users we have an opportunity to be visible to their entire follower base.
 
 so all we need to do for FB is use our
@@ -98,7 +120,7 @@ something similar to this
 get the full scoop at https://stirapp.co/top-3-jazz-bars-sf
 ```
 
-## Twitter
+## 4. Twitter
 We have a max character limit of 140 in twitter so we have to be concise in our tweets here. Use tinyurl.com to condense our post link. The `retweet`, `like`, and `comment` actions are our best friends. We want these venues to to do any or all of those to our tweets.
 
 The most important quality of this post is to
@@ -113,8 +135,8 @@ congrats @MrTipplesSF @ComstockSaloon & @clubdeluxesf for topping our list of ja
 http://tinyurl.com/top3jazz
 ```
 
-# Thanks for reading through all of this!
-I know it’s a little long but I wanted a one stop resource reference for all your future posts.
+# Thanks a wrap folks!
+Here we have a one stop resource reference for all your future posts.
 
-Now that you have all the tools you need let’s get out there and get these followers to fall in love with us!
+Now that you have all the tools you need let’s get out there and get these followers to fall in love with us! ❤️
 
