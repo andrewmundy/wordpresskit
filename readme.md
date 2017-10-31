@@ -57,7 +57,8 @@ Instagram has become the defacto landing zone for young adults aged 18-28. Thats
 
 Follow this gif for a breakdown of how to post your image to instagram from chrome. The steps are below.
 
-<img src="./images/instagram.gif">
+<img src="./images/instagram.gif"/>
+
 - while in chrome press `option + cmd + j` to open the developer tools
 - click on the `toggle device toolbar` button on the left. Looks like an iPad and iPhone
 - in the dropdown menu select `iPhone 6` and refresh `cmd + r` we are basically telling the browser that you want to use their mobile site
